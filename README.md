@@ -1,0 +1,2 @@
+# NG_IndDifferences_SocialPlasticity
+This contains scripts of our upcoming manuscript where we explore the neurogenomic basis of individual differences in social plasticity. This study adds to our two recent studies (Bukhari et al., 2017 &amp; Bukhari et al., 2019), and explores the genic basis of individual differences in social plasticity especially when presented with contrasting social interactions. 
